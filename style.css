@@ -1,9 +1,14 @@
 #main {
 margin: auto;
 text-align: center;
-margin-top: 40px;
 margin-left: 25%;
-background-color: #dddddd;
+margin-top: 2%;
+background-color: #1c1e20;
 width: 50%;
 height: 600px;
+border-radius: 20px;
+}
+
+body {
+  background-color: #111111;
 }
