@@ -13,3 +13,9 @@ padding: 10px;
 body {
   background-color: #111111;
 }
+
+#juanfoto {
+  position: fixed;
+  width: 100%;
+  height: 82%;
+}
