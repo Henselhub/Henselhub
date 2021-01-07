@@ -26,12 +26,14 @@ body {
 }
 
 #updatefakers {
-  float: right;
-
+  float: left;
+  width: 25%;
+  margin: 25px;
 }
 
 #fotosupdate {
-  width: 20%;
+margin: 25px;
+width: 250px;
 }
 
 #username_submit {
