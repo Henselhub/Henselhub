@@ -4,7 +4,7 @@ text-align: center;
 margin-left: 25%;
 margin-top: 2%;
 background-color: #1c1e20;
-color: #ffffff ;
+color: #9B9D9E ;
 width: 50%;
 height: 600px;
 border-radius: 10px;
@@ -50,10 +50,15 @@ width: 250px;
   color: white;
 }
 
-h1 {
-  color: #9B9D9E;
+table {
+  border: 1px solid white;
 }
 
-p {
-  color: #9B9D9E;
+tr {
+  border: 1px solid white;
 }
+
+th {border: 1px solid white;
+  padding: 5px;
+}
+
