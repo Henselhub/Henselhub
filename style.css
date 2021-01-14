@@ -78,3 +78,18 @@ html[data-theme='dark'] img {
   border-radius: 5px;
 }
 
+#wrappermerch {
+    padding: 10px 10px 10px 100px;
+    margin: auto;
+    height: 100%;
+}
+
+article {
+  margin: 0 10px 10px 0;
+  width: 231px;
+  height: 242px;
+  cursor: pointer;
+  color: pink;
+  float: left;
+}
+
