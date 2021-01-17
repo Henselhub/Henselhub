@@ -1,7 +1,8 @@
 #main {
 margin: auto;
 text-align: center;
-margin-left: 25%;
+margin-left: auto;
+margin-right: auto;
 margin-top: 2%;
 background-color: #1c1e20;
 color: #9B9D9E ;
